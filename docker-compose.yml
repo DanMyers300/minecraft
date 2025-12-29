@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  java:
+    image: azul/zulu-openjdk:21-jre
+    container_name: minecraft
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - "25565:25565"
+    command: ["java", "-Xmx5G", "-jar", "server.jar"]
+
