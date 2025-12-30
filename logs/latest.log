@@ -1,148 +1,76 @@
-[19:02:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[19:02:50] [ServerMain/INFO]: Found new data pack file/anti enderman grief v1.1.15 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/armored elytra v2.0.9 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/back v1.3.15 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/bat membranes v1.0.16 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/chunk loaders v1.0.16 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/double shulker shells v1.3.15 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/dragon drops v1.3.15 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/elevators v1.0.16 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/ender chest always drops v1.0.7 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/fast leaf decay v2.0.20 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/glass always drops v1.0.7 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/graves v4.0.5 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/homes v1.5.17 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/mini blocks v1.1.5 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/name colors v1.0.13 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/nether portal coords v1.1.15 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/painting picker v1.1.2 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/player head drops v1.1.15 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/redstone rotation wrench v1.1.16 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/silk touch budding amethyst v1.0.7 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/spawn v2.3.15 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/timber v2.1.18 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/tpa v2.3.15 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/unlock all recipes v2.0.16 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/villager death messages v1.2.17 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/villager workstation highlights v1.1.15 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/wandering trader announcements v1.0.8 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:50] [ServerMain/INFO]: Found new data pack file/xp bottling v1.1.16 (MC 1.21-1.21.11).zip, loading it automatically
-[19:02:52] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element more_mob_heads:entities/shulker of type minecraft:loot_table
-[19:02:52] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element more_mob_heads:entities/bat of type minecraft:loot_table
-[19:02:52] [Worker-Main-2/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element more_mob_heads:entities/villager of type minecraft:loot_table
-[19:02:53] [ServerMain/INFO]: Loaded 1724 recipes
-[19:02:53] [ServerMain/INFO]: Loaded 1824 advancements
-[19:02:53] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[19:02:53] [Server thread/INFO]: Loading properties
-[19:02:53] [Server thread/INFO]: Default game type: SURVIVAL
-[19:02:53] [Server thread/INFO]: Generating keypair
-[19:02:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:02:54] [Server thread/INFO]: Preparing level "world"
-[19:02:54] [Server thread/INFO]: Loading 0 persistent chunks...
-[19:02:54] [Server thread/INFO]: Preparing spawn area: 100%
-[19:02:54] [Server thread/INFO]: Time elapsed: 16 ms
-[19:02:54] [Server thread/INFO]: Done (0.498s)! For help, type "help"
-[19:03:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:05:11] [User Authenticator #1/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[19:05:13] [Server thread/INFO]: avesdaves[/172.20.10.13:60644] logged in with entity id 64 at (6.5, 71.0, -0.5)
-[19:05:13] [Server thread/INFO]: avesdaves joined the game
-[19:05:17] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[19:05:17] [Server thread/INFO]: avesdaves left the game
-[19:06:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:08:20] [User Authenticator #2/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[19:08:21] [Server thread/INFO]: Peggl3[/172.20.10.10:36474] logged in with entity id 279 at (-7.5, 60.0, 0.5)
-[19:08:21] [Server thread/INFO]: Peggl3 joined the game
-[19:08:23] [User Authenticator #3/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[19:08:23] [Server thread/INFO]: avesdaves[/172.20.10.13:60674] logged in with entity id 411 at (6.5, 71.0, -0.5)
-[19:08:23] [Server thread/INFO]: avesdaves joined the game
-[19:09:24] [Server thread/INFO]: [Peggl3: Set the time to 1000]
-[19:10:15] [Server thread/INFO]: Peggl3 has made the advancement [Stone Age]
-[19:11:31] [Server thread/INFO]: Peggl3 has made the advancement [Getting an Upgrade]
-[19:16:16] [Server thread/INFO]: avesdaves has made the advancement [Getting an Upgrade]
-[19:22:04] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[19:22:04] [Server thread/INFO]: Peggl3 left the game
-[19:22:08] [Server thread/INFO]: avesdaves has made the advancement [Stone Age]
-[19:23:37] [User Authenticator #4/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[19:23:38] [Server thread/INFO]: Peggl3[/172.20.10.10:49382] logged in with entity id 13338 at (-30.30000001192093, 68.0, -30.357444278099642)
-[19:23:38] [Server thread/INFO]: Peggl3 joined the game
-[19:24:49] [Server thread/INFO]: avesdaves has made the advancement [Monster Hunter]
-[19:25:08] [Server thread/INFO]: Peggl3 has made the advancement [Monster Hunter]
-[19:30:32] [Server thread/INFO]: avesdaves has made the advancement [A Seedy Place]
-[19:32:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=28, y=71, z=41} is{x=25, y=69, z=40}
-[19:32:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=28, y=71, z=41} is{x=25, y=69, z=40}
-[19:32:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=28, y=71, z=41} is{x=25, y=69, z=40}
-[19:32:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=29, y=70, z=40} is{x=25, y=69, z=40}
-[19:34:20] [Server thread/INFO]: avesdaves has made the advancement [Acquire Hardware]
-[19:36:12] [Server thread/INFO]: Peggl3 has made the advancement [Acquire Hardware]
-[19:36:28] [Server thread/INFO]: Peggl3 has made the advancement [Isn't It Iron Pick]
-[19:38:47] [Server thread/INFO]: [Peggl3: Triggered [Set Home]]
-[19:38:55] [Server thread/INFO]: [Peggl3: Running function homes:config]
-[19:38:58] [Server thread/INFO]: [Peggl3: Set [Homes Config] for #limit to 100]
-[19:39:12] [Server thread/INFO]: [Peggl3: Set [Homes Config] for #limit to 999]
-[19:39:23] [Server thread/INFO]: Peggl3 has made the advancement [Sweet Dreams]
-[19:39:35] [Server thread/INFO]: [Peggl3: Gamerule players_sleeping_percentage is now set to: 10]
-[19:41:28] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[19:41:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
-[19:41:40] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[19:43:46] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[19:45:23] [Server thread/INFO]: avesdaves has made the advancement [The Parrots and the Bats]
-[19:52:16] [Server thread/INFO]: Peggl3 has made the advancement [Not Today, Thank You]
-[19:54:07] [Server thread/INFO]: Peggl3 was blown up by Creeper
-[19:55:18] [Server thread/INFO]: Peggl3 was shot by Skeleton
-[19:55:20] [Server thread/INFO]: avesdaves was stung to death
-[20:01:59] [Server thread/INFO]: avesdaves has made the advancement [Sweet Dreams]
-[20:02:52] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:05:31] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 2)]
-[20:06:41] [Server thread/INFO]: [Peggl3: Gave 2 [Bee Spawn Egg] to avesdaves]
-[20:06:59] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 3)]
-[20:09:15] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
-[20:11:57] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:12:34] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[20:12:37] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[20:12:37] [Server thread/INFO]: Peggl3 left the game
-[20:19:37] [User Authenticator #5/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[20:19:38] [Server thread/INFO]: Peggl3[/172.20.10.10:47290] logged in with entity id 41732 at (106.39337715247376, 63.0, 147.6197639127174)
-[20:19:38] [Server thread/INFO]: Peggl3 joined the game
-[20:20:58] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[20:20:58] [Server thread/INFO]: avesdaves left the game
-[20:21:24] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
-[20:21:28] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 4)]
-[20:22:24] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:22:32] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[20:23:42] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:23:50] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[20:24:16] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 5)]
-[20:24:48] [User Authenticator #6/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[20:24:48] [Server thread/INFO]: avesdaves[/172.20.10.13:55154] logged in with entity id 44915 at (-12.570333328581922, 68.0, -25.18021297688325)
-[20:24:48] [Server thread/INFO]: avesdaves joined the game
-[20:25:03] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
-[20:25:06] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 6)]
-[20:25:36] [Server thread/INFO]: [avesdaves: Triggered [tpa] (set value to 1)]
-[20:25:38] [Server thread/INFO]: [avesdaves: Triggered [tpa] (set value to 2)]
-[20:25:47] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
-[20:26:04] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 7)]
-[20:29:02] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[20:29:02] [Server thread/INFO]: avesdaves left the game
-[20:34:18] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[20:34:28] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[20:35:01] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[20:35:01] [Server thread/INFO]: Peggl3 left the game
-[20:35:42] [User Authenticator #7/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[20:35:42] [Server thread/INFO]: avesdaves[/172.20.10.13:49293] logged in with entity id 49716 at (232.3794754866551, 67.0, -556.0090386502669)
-[20:35:42] [Server thread/INFO]: avesdaves joined the game
-[20:35:52] [Server thread/INFO]: [avesdaves: Triggered [Home]]
-[20:36:42] [Server thread/INFO]: avesdaves lost connection: Timed out
-[20:36:42] [Server thread/INFO]: avesdaves left the game
-[20:36:42] [Server thread/WARN]: handleDisconnection() called twice
-[20:37:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:21:14] [User Authenticator #8/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[21:21:16] [Server thread/INFO]: Peggl3[/172.20.10.10:34380] logged in with entity id 50155 at (55.939717764866266, 64.0, -919.3012766733375)
-[21:21:16] [Server thread/INFO]: Peggl3 joined the game
-[21:24:38] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[21:24:38] [Server thread/INFO]: Peggl3 left the game
-[21:25:14] [User Authenticator #9/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[21:25:14] [Server thread/INFO]: Peggl3[/172.20.10.10:43896] logged in with entity id 52350 at (-342.40348527499174, 67.0, -601.7195560107567)
-[21:25:14] [Server thread/INFO]: Peggl3 joined the game
-[21:25:28] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[21:25:28] [Server thread/INFO]: Peggl3 left the game
-[21:26:28] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:01:06] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[00:01:06] [Server thread/INFO]: avesdaves left the game
+[00:02:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:35:54] [Server thread/INFO]: avesdaves (/172.20.10.13:57283) lost connection: Disconnected
+[00:35:54] [User Authenticator #13/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[00:41:49] [User Authenticator #14/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[00:41:50] [Server thread/INFO]: avesdaves[/172.20.10.13:57325] logged in with entity id 91373 at (235.3104297812128, 60.0, -96.27569114695116)
+[00:41:50] [Server thread/INFO]: avesdaves joined the game
+[00:42:56] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[00:42:56] [Server thread/INFO]: avesdaves left the game
+[00:43:36] [User Authenticator #15/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[00:43:37] [Server thread/INFO]: avesdaves[/172.20.10.13:57337] logged in with entity id 91745 at (230.03560987378054, 58.0, -85.20959463451754)
+[00:43:37] [Server thread/INFO]: avesdaves joined the game
+[00:43:57] [User Authenticator #16/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[00:43:58] [Server thread/INFO]: Peggl3[/172.20.10.10:51406] logged in with entity id 91997 at (252.71871818300457, 76.5, -66.90606000076907)
+[00:43:58] [Server thread/INFO]: Peggl3 joined the game
+[00:44:04] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[00:44:13] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:44:16] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
+[00:45:49] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[00:45:56] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:46:01] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[00:46:15] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:50:30] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[00:50:46] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 8)]
+[00:51:23] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:52:07] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:52:24] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:52:27] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:52:31] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[00:54:14] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
+[00:55:47] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:55:53] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[00:58:59] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:59:04] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
+[01:01:11] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:02:29] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:02:56] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:03:26] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:04:00] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:06:21] [Server thread/INFO]: avesdaves has made the advancement [Diamonds!]
+[01:08:33] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:10:46] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:10:58] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:12:09] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:13:15] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:14:13] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:14:17] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:14:39] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:15:20] [Server thread/INFO]: [avesdaves: Triggered [Set Home] (set value to 4)]
+[01:15:34] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
+[01:15:56] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
+[01:16:36] [Server thread/INFO]: [avesdaves: Triggered [Set Home] (set value to 3)]
+[01:18:28] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:19:22] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:20:41] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:23:17] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:23:50] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:23:56] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
+[01:25:00] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
+[01:25:48] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:28:34] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:29:05] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:32:44] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
+[01:34:09] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[01:34:17] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:34:26] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:34:37] [Server thread/INFO]: Peggl3 has made the advancement [Diamonds!]
+[01:34:43] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[01:35:08] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[01:37:05] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
+[01:37:34] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[01:39:08] [Server thread/INFO]: avesdaves has made the advancement [Cover Me with Diamonds]
+[01:40:45] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
+[01:40:55] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[01:43:51] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]

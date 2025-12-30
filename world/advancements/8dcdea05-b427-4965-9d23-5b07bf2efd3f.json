@@ -9,11 +9,13 @@
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-12-29 18:48:04 +0000",
       "minecraft:beach": "2025-12-29 20:32:07 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-12-29 21:39:35 +0000",
       "minecraft:dark_forest": "2025-12-29 20:07:03 +0000",
       "minecraft:forest": "2025-12-29 19:09:11 +0000",
       "minecraft:river": "2025-12-29 19:37:51 +0000",
       "minecraft:birch_forest": "2025-12-29 20:10:14 +0000",
       "minecraft:stony_shore": "2025-12-29 20:30:26 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-12-29 21:42:33 +0000",
       "minecraft:dripstone_caves": "2025-12-29 19:10:13 +0000",
       "minecraft:plains": "2025-12-29 20:24:47 +0000"
     },
@@ -10228,6 +10230,18 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-12-29 19:52:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-12-29 23:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-12-30 01:34:37 +0000"
     },
     "done": true
   },

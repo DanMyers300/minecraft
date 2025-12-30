@@ -10145,6 +10145,7 @@
       "minecraft:forest": "2025-12-29 19:08:57 +0000",
       "minecraft:river": "2025-12-29 19:29:22 +0000",
       "minecraft:birch_forest": "2025-12-29 19:31:37 +0000",
+      "minecraft:dripstone_caves": "2025-12-30 00:58:11 +0000",
       "minecraft:plains": "2025-12-29 20:25:48 +0000"
     },
     "done": false
@@ -10177,7 +10178,11 @@
     "criteria": {
       "cooked_porkchop": "2025-12-29 19:22:04 +0000",
       "apple": "2025-12-29 20:16:34 +0000",
-      "cooked_salmon": "2025-12-29 19:40:02 +0000"
+      "bread": "2025-12-30 01:39:23 +0000",
+      "cooked_chicken": "2025-12-29 23:25:49 +0000",
+      "cooked_mutton": "2025-12-30 00:57:53 +0000",
+      "cooked_salmon": "2025-12-29 19:40:02 +0000",
+      "carrot": "2025-12-29 23:09:00 +0000"
     },
     "done": false
   },
@@ -10189,6 +10194,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombie": "2025-12-30 01:02:36 +0000",
       "minecraft:creeper": "2025-12-29 19:24:49 +0000"
     },
     "done": false
@@ -10219,7 +10225,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-12-30 01:34:19 +0000",
       "minecraft:chicken": "2025-12-29 19:45:23 +0000",
+      "minecraft:wolf": "2025-12-30 01:41:22 +0000",
       "minecraft:sheep": "2025-12-29 19:50:44 +0000",
       "minecraft:bee": "2025-12-29 19:49:05 +0000"
     },
@@ -10228,6 +10236,42 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-12-29 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-12-29 23:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-12-29 23:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-12-29 23:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-12-30 01:41:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-12-30 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-12-30 01:06:21 +0000"
     },
     "done": true
   },
