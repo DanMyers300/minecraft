@@ -10142,6 +10142,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-12-29 19:05:14 +0000",
+      "minecraft:dark_forest": "2025-12-30 02:01:07 +0000",
       "minecraft:forest": "2025-12-29 19:08:57 +0000",
       "minecraft:river": "2025-12-29 19:29:22 +0000",
       "minecraft:birch_forest": "2025-12-29 19:31:37 +0000",
@@ -10194,6 +10195,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-12-30 04:14:47 +0000",
+      "minecraft:skeleton": "2025-12-30 03:19:16 +0000",
+      "minecraft:spider": "2025-12-30 03:19:13 +0000",
       "minecraft:zombie": "2025-12-30 01:02:36 +0000",
       "minecraft:creeper": "2025-12-29 19:24:49 +0000"
     },
@@ -10257,11 +10261,11 @@
     },
     "done": true
   },
-  "minecraft:husbandry/whole_pack": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "minecraft:pale": "2025-12-30 01:41:00 +0000"
+      "diamond": "2025-12-30 01:06:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
@@ -10269,9 +10273,21 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "diamond": "2025-12-30 01:06:21 +0000"
+      "minecraft:pale": "2025-12-30 01:41:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-12-30 03:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-12-30 04:14:47 +0000"
     },
     "done": true
   },

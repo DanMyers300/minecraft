@@ -10185,6 +10185,7 @@
       "apple": "2025-12-29 19:17:15 +0000",
       "bread": "2025-12-29 20:34:30 +0000",
       "cooked_mutton": "2025-12-29 20:19:54 +0000",
+      "cooked_beef": "2025-12-30 02:58:04 +0000",
       "cooked_salmon": "2025-12-29 19:40:05 +0000"
     },
     "done": false
@@ -10192,8 +10193,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-12-29 19:28:39 +0000",
+      "minecraft:piglin": "2025-12-30 02:23:45 +0000",
+      "minecraft:magma_cube": "2025-12-30 02:50:16 +0000",
+      "minecraft:witch": "2025-12-30 03:11:35 +0000",
+      "minecraft:piglin_brute": "2025-12-30 02:35:51 +0000",
+      "minecraft:spider": "2025-12-30 03:05:07 +0000",
       "minecraft:zombie": "2025-12-29 19:30:46 +0000",
-      "minecraft:creeper": "2025-12-29 19:25:08 +0000"
+      "minecraft:creeper": "2025-12-29 19:25:08 +0000",
+      "minecraft:zombie_villager": "2025-12-30 04:15:25 +0000"
     },
     "done": false
   },
@@ -10242,6 +10249,73 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-12-30 01:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-12-30 02:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-12-30 02:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-12-30 02:05:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-12-30 02:05:36 +0000",
+      "minecraft:nether_wastes": "2025-12-30 02:08:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-12-30 02:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-12-30 02:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-12-30 02:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-12-30 02:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-12-30 04:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-12-30 04:28:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-12-30 04:31:20 +0000"
     },
     "done": true
   },
