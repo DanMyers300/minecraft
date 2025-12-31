@@ -10142,8 +10142,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-12-29 19:05:14 +0000",
+      "minecraft:beach": "2025-12-30 23:11:47 +0000",
       "minecraft:dark_forest": "2025-12-30 02:01:07 +0000",
       "minecraft:forest": "2025-12-29 19:08:57 +0000",
+      "minecraft:ocean": "2025-12-30 23:11:39 +0000",
+      "minecraft:deep_ocean": "2025-12-30 23:12:54 +0000",
       "minecraft:river": "2025-12-29 19:29:22 +0000",
       "minecraft:birch_forest": "2025-12-29 19:31:37 +0000",
       "minecraft:dripstone_caves": "2025-12-30 00:58:11 +0000",
@@ -10180,9 +10183,13 @@
       "cooked_porkchop": "2025-12-29 19:22:04 +0000",
       "apple": "2025-12-29 20:16:34 +0000",
       "bread": "2025-12-30 01:39:23 +0000",
+      "golden_apple": "2025-12-30 17:02:25 +0000",
       "cooked_chicken": "2025-12-29 23:25:49 +0000",
       "cooked_mutton": "2025-12-30 00:57:53 +0000",
+      "cooked_beef": "2025-12-30 23:12:18 +0000",
+      "baked_potato": "2025-12-30 16:25:41 +0000",
       "cooked_salmon": "2025-12-29 19:40:02 +0000",
+      "golden_carrot": "2025-12-30 23:58:27 +0000",
       "carrot": "2025-12-29 23:09:00 +0000"
     },
     "done": false
@@ -10196,8 +10203,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-12-30 04:14:47 +0000",
+      "minecraft:blaze": "2025-12-31 00:14:39 +0000",
+      "minecraft:cave_spider": "2025-12-30 16:45:38 +0000",
       "minecraft:skeleton": "2025-12-30 03:19:16 +0000",
+      "minecraft:piglin": "2025-12-30 23:58:10 +0000",
+      "minecraft:magma_cube": "2025-12-31 00:19:03 +0000",
       "minecraft:spider": "2025-12-30 03:19:13 +0000",
+      "minecraft:wither_skeleton": "2025-12-31 00:20:26 +0000",
       "minecraft:zombie": "2025-12-30 01:02:36 +0000",
       "minecraft:creeper": "2025-12-29 19:24:49 +0000"
     },
@@ -10288,6 +10300,62 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-12-30 16:31:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2025-12-30 22:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2025-12-30 23:08:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-12-31 00:14:33 +0000",
+      "minecraft:nether_wastes": "2025-12-30 23:55:17 +0000",
+      "minecraft:soul_sand_valley": "2025-12-30 23:53:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-12-30 23:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-12-30 23:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-12-31 00:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-12-31 00:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-12-31 00:16:00 +0000"
     },
     "done": true
   },

@@ -1,310 +1,134 @@
-[00:01:06] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[00:01:06] [Server thread/INFO]: avesdaves left the game
-[00:02:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:35:54] [Server thread/INFO]: avesdaves (/172.20.10.13:57283) lost connection: Disconnected
-[00:35:54] [User Authenticator #13/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[00:41:49] [User Authenticator #14/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[00:41:50] [Server thread/INFO]: avesdaves[/172.20.10.13:57325] logged in with entity id 91373 at (235.3104297812128, 60.0, -96.27569114695116)
-[00:41:50] [Server thread/INFO]: avesdaves joined the game
-[00:42:56] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[00:42:56] [Server thread/INFO]: avesdaves left the game
-[00:43:36] [User Authenticator #15/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[00:43:37] [Server thread/INFO]: avesdaves[/172.20.10.13:57337] logged in with entity id 91745 at (230.03560987378054, 58.0, -85.20959463451754)
-[00:43:37] [Server thread/INFO]: avesdaves joined the game
-[00:43:57] [User Authenticator #16/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[00:43:58] [Server thread/INFO]: Peggl3[/172.20.10.10:51406] logged in with entity id 91997 at (252.71871818300457, 76.5, -66.90606000076907)
-[00:43:58] [Server thread/INFO]: Peggl3 joined the game
-[00:44:04] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[00:44:13] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[00:44:16] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[00:45:49] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[00:45:56] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[00:46:01] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[00:46:15] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[00:50:30] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[00:50:46] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 8)]
-[00:51:23] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[00:52:07] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[00:52:24] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[00:52:27] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[00:52:31] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[00:54:14] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[00:55:47] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[00:55:53] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[00:58:59] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[00:59:04] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[01:01:11] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:02:29] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:02:56] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:03:26] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:04:00] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:06:21] [Server thread/INFO]: avesdaves has made the advancement [Diamonds!]
-[01:08:33] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:10:46] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:10:58] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:12:09] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:13:15] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:14:13] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:14:17] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:14:39] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:15:20] [Server thread/INFO]: [avesdaves: Triggered [Set Home] (set value to 4)]
-[01:15:34] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[01:15:56] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[01:16:36] [Server thread/INFO]: [avesdaves: Triggered [Set Home] (set value to 3)]
-[01:18:28] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:19:22] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:20:41] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:23:17] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:23:50] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:23:56] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[01:25:00] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[01:25:48] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:28:34] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:29:05] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:32:44] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[01:34:09] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[01:34:17] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:34:26] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:34:37] [Server thread/INFO]: Peggl3 has made the advancement [Diamonds!]
-[01:34:43] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:35:08] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:37:05] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[01:37:34] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[01:39:08] [Server thread/INFO]: avesdaves has made the advancement [Cover Me with Diamonds]
-[01:40:45] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[01:40:55] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[01:43:51] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[01:44:22] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[01:44:52] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[01:45:01] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:45:13] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:45:13] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[01:45:40] [Server thread/INFO]: <Peggl3> 250 71 -62
-[01:45:48] [Server thread/WARN]: Horse (vehicle of avesdaves) moved too quickly! 6.898226291999549,-2.0,6.962296089637334
-[01:45:48] [Server thread/WARN]: Horse (vehicle of avesdaves) moved too quickly! 7.136520437441391,-2.0,7.271192333447857
-[01:45:48] [Server thread/WARN]: Horse (vehicle of avesdaves) moved too quickly! 7.3765065188692915,-2.0,7.585089895045826
-[01:46:13] [Server thread/INFO]: avesdaves lost connection: Timed out
-[01:46:13] [Server thread/INFO]: avesdaves left the game
-[01:46:48] [User Authenticator #17/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[01:46:48] [Server thread/INFO]: avesdaves[/172.20.10.13:54146] logged in with entity id 117983 at (141.61549539035826, 68.84375002384186, -446.34451515442066)
-[01:46:48] [Server thread/INFO]: avesdaves joined the game
-[01:47:01] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:47:20] [Server thread/INFO]: <avesdaves> 250 -62
-[01:51:20] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:55:47] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[01:56:03] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:56:15] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[01:56:15] [Server thread/INFO]: avesdaves left the game
-[01:56:37] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 6)]
-[01:57:59] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[01:57:59] [Server thread/INFO]: Peggl3 left the game
-[01:58:51] [User Authenticator #18/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[01:58:52] [Server thread/INFO]: avesdaves[/172.20.10.13:56591] logged in with entity id 123655 at (222.0953014598116, 70.0, -46.30000001192093)
-[01:58:52] [Server thread/INFO]: avesdaves joined the game
-[01:59:20] [User Authenticator #19/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[01:59:21] [Server thread/INFO]: Peggl3[/172.20.10.10:55762] logged in with entity id 124459 at (-45.10628135242381, 64.0, -627.6744394777803)
-[01:59:21] [Server thread/INFO]: Peggl3 joined the game
-[01:59:30] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[01:59:50] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[01:59:54] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
-[01:59:57] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 10)]
-[02:00:05] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 9)]
-[02:00:08] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 8)]
-[02:00:25] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 7)]
-[02:00:30] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 6)]
-[02:00:34] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 5)]
-[02:00:44] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[02:00:48] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 3)]
-[02:01:03] [Server thread/INFO]: [avesdaves: Triggered [tpa] (set value to 2)]
-[02:01:06] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
-[02:01:14] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:01:15] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 4)]
-[02:01:19] [Server thread/INFO]: [avesdaves: Triggered [tpa] (set value to 2)]
-[02:01:22] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[02:01:23] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
-[02:01:33] [Server thread/INFO]: [avesdaves: Triggered [Set Home] (set value to 5)]
-[02:02:13] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 10)]
-[02:02:50] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 2)]
-[02:02:52] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[02:03:21] [Server thread/INFO]: Peggl3 has made the advancement [Hot Stuff]
-[02:04:14] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 10)]
-[02:04:18] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:05:23] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[02:05:33] [Server thread/INFO]: Peggl3 has made the advancement [We Need to Go Deeper]
-[02:05:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4464ms or 89 ticks behind
-[02:05:35] [Server thread/WARN]: avesdaves moved too quickly! 9.32054802214958,1.0,3.611536128948046
-[02:05:43] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[02:05:43] [Server thread/INFO]: avesdaves left the game
-[02:06:02] [Server thread/INFO]: Peggl3 was slain by Piglin
-[02:06:07] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 10)]
-[02:06:41] [User Authenticator #20/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[02:06:41] [Server thread/INFO]: avesdaves[/172.20.10.13:50078] logged in with entity id 136923 at (244.69999998807907, 70.0, -63.29730663885356)
-[02:06:41] [Server thread/INFO]: avesdaves joined the game
-[02:06:52] [Server thread/INFO]: Peggl3 was slain by Piglin
-[02:07:02] [Server thread/INFO]: [avesdaves: Triggered [tpa] (set value to 2)]
-[02:07:22] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 10)]
-[02:09:00] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 11)]
-[02:09:04] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 11)]
-[02:09:06] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:09:14] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[02:09:27] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:10:21] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[02:10:25] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[02:10:32] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[02:10:33] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:13:58] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 11)]
-[02:14:35] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[02:14:35] [Server thread/INFO]: Peggl3 left the game
-[02:16:30] [User Authenticator #21/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[02:16:31] [Server thread/INFO]: Peggl3[/172.20.10.10:58572] logged in with entity id 140755 at (-57.28016702847804, 46.0, -177.25258799496422)
-[02:16:31] [Server thread/INFO]: Peggl3 joined the game
-[02:19:20] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[02:19:20] [Server thread/INFO]: Peggl3 left the game
-[02:20:15] [User Authenticator #22/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[02:20:16] [Server thread/INFO]: Peggl3[/172.20.10.10:55582] logged in with entity id 141624 at (-57.28016702847804, 46.0, -177.25258799496422)
-[02:20:16] [Server thread/INFO]: Peggl3 joined the game
-[02:25:25] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[02:27:12] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 5)]
-[02:27:30] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[02:27:54] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:28:01] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[02:28:19] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[02:28:25] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[02:28:29] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
-[02:28:32] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:28:36] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 12)]
-[02:28:39] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[02:28:45] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[02:29:22] [Server thread/INFO]: Peggl3 has made the advancement [Those Were the Days]
-[02:29:37] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 12)]
-[02:29:40] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:31:19] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[02:31:31] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:32:38] [Server thread/INFO]: Peggl3 was slain by Piglin Brute
-[02:33:08] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:33:44] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:34:09] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[02:34:22] [Server thread/INFO]: Peggl3 was slain by Piglin Brute
-[02:34:27] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:36:28] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 12)]
-[02:37:00] [Server thread/INFO]: Peggl3 has made the advancement [Who is Cutting Onions?]
-[02:41:07] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 12)]
-[02:41:45] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:41:50] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[02:42:17] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 12)]
-[02:42:23] [Server thread/INFO]: Peggl3 was slain by Piglin Brute
-[02:42:31] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:42:34] [Server thread/INFO]: Peggl3 was slain by Piglin
-[02:42:37] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:42:39] [Server thread/INFO]: Peggl3 was slain by Piglin Brute
-[02:42:41] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:42:44] [Server thread/INFO]: Peggl3 was slain by Piglin Brute
-[02:42:46] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:42:49] [Server thread/INFO]: Peggl3 was slain by Piglin Brute
-[02:42:52] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:42:56] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 5)]
-[02:42:58] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:44:53] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[02:48:05] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:48:19] [Server thread/INFO]: Peggl3 was slain by Magma Cube
-[02:48:26] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:48:28] [Server thread/INFO]: Peggl3 was slain by Piglin Brute
-[02:48:31] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:48:35] [Server thread/INFO]: Peggl3 was slain by Piglin
-[02:48:38] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:48:44] [Server thread/INFO]: Peggl3 was slain by Piglin
-[02:48:46] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:48:52] [Server thread/INFO]: Peggl3 was slain by Piglin
-[02:48:55] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:49:01] [Server thread/INFO]: Peggl3 was slain by Piglin
-[02:49:03] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:49:15] [Server thread/INFO]: Peggl3 was slain by Piglin
-[02:49:18] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:49:32] [Server thread/INFO]: Peggl3 was slain by Magma Cube
-[02:49:35] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:49:47] [Server thread/INFO]: Peggl3 has made the advancement [War Pigs]
-[02:49:47] [Server thread/INFO]: Peggl3 was slain by Piglin
-[02:49:49] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:49:57] [Server thread/INFO]: Peggl3 has made the advancement [Cover Me with Diamonds]
-[02:49:57] [Server thread/INFO]: Peggl3 was slain by Piglin
-[02:50:00] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:50:22] [Server thread/INFO]: Peggl3 was slain by Magma Cube
-[02:50:24] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:50:45] [Server thread/INFO]: Peggl3 was slain by Magma Cube
-[02:50:47] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:50:55] [Server thread/INFO]: Peggl3 was slain by Magma Cube
-[02:51:09] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 12)]
-[02:51:19] [Server thread/INFO]: Peggl3 tried to swim in lava to escape Magma Cube
-[02:51:31] [Server thread/INFO]: avesdaves was doomed to fall by Zombie
-[02:51:38] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:52:01] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[02:52:04] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[02:52:05] [Server thread/INFO]: avesdaves was slain by Zombie
-[02:54:39] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[02:54:52] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:55:40] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
-[02:55:43] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 11)]
-[02:56:52] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[02:59:45] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[03:01:34] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[03:07:32] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[03:07:43] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[03:08:45] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
-[03:08:47] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 13)]
-[03:08:52] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 13)]
-[03:11:51] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[03:13:32] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[03:14:05] [Server thread/INFO]: avesdaves was shot by Skeleton
-[03:16:01] [Server thread/INFO]: [Peggl3: Gave 1 [Moss Block] to avesdaves]
-[03:16:23] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[03:16:55] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[03:18:45] [Server thread/INFO]: avesdaves has made the advancement [Suit Up]
-[03:22:33] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 5)]
-[03:22:36] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[03:25:48] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[03:25:48] [Server thread/INFO]: avesdaves left the game
-[03:25:52] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[03:25:52] [Server thread/INFO]: Peggl3 left the game
-[03:26:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:10:32] [User Authenticator #23/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[04:10:33] [Server thread/INFO]: Peggl3[/172.20.10.10:43824] logged in with entity id 177612 at (254.6578642174979, 71.0, -61.559520981077256)
-[04:10:33] [Server thread/INFO]: Peggl3 joined the game
-[04:10:42] [User Authenticator #24/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
-[04:10:43] [Server thread/INFO]: avesdaves[/172.20.10.13:56420] logged in with entity id 177854 at (237.1188931411345, 70.0, -66.85253478417664)
-[04:10:43] [Server thread/INFO]: avesdaves joined the game
-[04:12:23] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
-[04:12:27] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 13)]
-[04:14:47] [Server thread/INFO]: avesdaves has made the advancement [Voluntary Exile]
-[04:15:50] [Server thread/INFO]: Peggl3 was blown up by Creeper
-[04:16:00] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 13)]
-[04:17:25] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[04:18:25] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[04:24:18] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[04:24:24] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[04:24:29] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[04:28:14] [Server thread/INFO]: Peggl3 has made the advancement [The Parrots and the Bats]
-[04:28:21] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 5)]
-[04:28:57] [Server thread/INFO]: [avesdaves: Triggered [Back]]
-[04:30:29] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[04:31:20] [Server thread/INFO]: Peggl3 has made the advancement [A Seedy Place]
-[04:31:30] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[04:32:05] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
-[04:32:42] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[04:35:01] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 11)]
-[04:35:17] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[04:35:27] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[04:36:15] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[04:38:47] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 5)]
-[04:38:50] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
-[04:39:16] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 4)]
-[04:39:20] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
-[04:41:14] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 8)]
-[04:41:28] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[04:44:24] [Server thread/INFO]: avesdaves lost connection: Disconnected
-[04:44:24] [Server thread/INFO]: avesdaves left the game
-[05:07:31] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[05:07:31] [Server thread/INFO]: Peggl3 left the game
-[05:08:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:17:36] [User Authenticator #25/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[16:17:38] [Server thread/INFO]: Peggl3[/172.20.10.10:54814] logged in with entity id 191893 at (249.5, 71.0, -61.5)
-[16:17:38] [Server thread/INFO]: Peggl3 joined the game
+[00:00:48] [Server thread/INFO]: avesdaves has made the advancement [Take Aim]
+[00:02:03] [Server thread/INFO]: [avesdaves: Triggered [tpa] (set value to 2)]
+[00:02:05] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
+[00:02:23] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[00:04:12] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:05:57] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:07:06] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:08:02] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:08:30] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:08:53] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 11)]
+[00:11:13] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:11:21] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:14:06] [Server thread/INFO]: Peggl3 has made the advancement [A Terrible Fortress]
+[00:14:10] [Server thread/INFO]: [avesdaves: Triggered [tpa] (set value to 2)]
+[00:14:22] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
+[00:14:26] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 17)]
+[00:14:30] [Server thread/INFO]: [avesdaves: Triggered [tpa] (set value to 2)]
+[00:14:32] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
+[00:14:33] [Server thread/INFO]: avesdaves has made the advancement [A Terrible Fortress]
+[00:14:45] [Server thread/INFO]: Peggl3 has made the advancement [Into Fire]
+[00:14:52] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:15:03] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:16:00] [Server thread/INFO]: avesdaves has made the advancement [Into Fire]
+[00:16:55] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
+[00:16:58] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 17)]
+[00:18:27] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:18:37] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:18:46] [Server thread/INFO]: [avesdaves: Triggered [tpa] (set value to 2)]
+[00:18:50] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
+[00:21:12] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:24:58] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 2)]
+[00:25:03] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
+[00:30:06] [Server thread/INFO]: Peggl3 lost connection: Timed out
+[00:30:06] [Server thread/INFO]: Peggl3 left the game
+[00:32:15] [User Authenticator #39/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[00:32:17] [Server thread/INFO]: Peggl3[/172.20.10.10:56622] logged in with entity id 302009 at (104.70663481098241, 63.0, -289.4201902473484)
+[00:32:17] [Server thread/INFO]: Peggl3 joined the game
+[00:32:32] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:33:24] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:34:35] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:34:44] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:35:45] [Server thread/INFO]: avesdaves fell from a high place
+[00:39:59] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[00:40:25] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[00:44:02] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[00:44:02] [Server thread/INFO]: avesdaves left the game
+[00:45:14] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:45:28] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:49:56] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:50:11] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[00:52:05] [Server thread/INFO]: Peggl3 has made the advancement [Eye Spy]
+[00:53:57] [Server thread/INFO]: [Peggl3: Set own game mode to Spectator Mode]
+[00:54:08] [Server thread/INFO]: [Peggl3: Set own game mode to Survival Mode]
+[00:54:36] [Server thread/INFO]: [Peggl3: Gave 1 [Eye of Ender] to Peggl3]
+[00:54:57] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
+[00:55:00] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 18)]
+[00:55:05] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 18)]
+[00:55:14] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[00:56:39] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[00:56:39] [Server thread/INFO]: Peggl3 left the game
+[00:57:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:46:00] [User Authenticator #40/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[03:46:01] [Server thread/INFO]: avesdaves[/172.20.10.13:51163] logged in with entity id 312464 at (230.3056838307304, 71.0, -49.19135329506942)
+[03:46:01] [Server thread/INFO]: avesdaves joined the game
+[03:51:47] [User Authenticator #41/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[03:51:48] [Server thread/INFO]: Peggl3[/172.20.10.10:48206] logged in with entity id 313460 at (249.5, 71.5625, -59.5)
+[03:51:48] [Server thread/INFO]: Peggl3 joined the game
+[04:00:55] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[04:00:55] [Server thread/INFO]: avesdaves left the game
+[04:04:37] [User Authenticator #42/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[04:04:37] [Server thread/INFO]: avesdaves[/172.20.10.13:62844] logged in with entity id 315601 at (264.8249592840122, 71.0, -75.8420263253812)
+[04:04:37] [Server thread/INFO]: avesdaves joined the game
+[04:07:03] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
+[04:07:10] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 2)]
+[04:07:14] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 3)]
+[04:07:18] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 5)]
+[04:07:22] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 6)]
+[04:07:26] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 7)]
+[04:07:32] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 8)]
+[04:07:36] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 9)]
+[04:07:41] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
+[04:07:41] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 10)]
+[04:07:46] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 11)]
+[04:07:50] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 13)]
+[04:08:02] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[04:11:17] [Server thread/INFO]: avesdaves was blown up by Creeper
+[04:15:58] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[04:15:58] [Server thread/INFO]: avesdaves left the game
+[04:16:28] [User Authenticator #43/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[04:16:28] [Server thread/INFO]: avesdaves[/172.20.10.13:62921] logged in with entity id 320152 at (339.959472257748, 22.0, -83.30000001192093)
+[04:16:28] [Server thread/INFO]: avesdaves joined the game
+[04:16:32] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 1)]
+[04:16:57] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[04:17:03] [Server thread/INFO]: avesdaves was blown up by Creeper
+[04:18:20] [Server thread/INFO]: [avesdaves: Triggered [Set Home] (set value to 7)]
+[04:19:27] [Server thread/INFO]: avesdaves was blown up by Creeper
+[04:19:33] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 9)]
+[04:19:40] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 9)]
+[04:19:45] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 7)]
+[04:19:47] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
+[04:19:50] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 19)]
+[04:19:55] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 19)]
+[04:19:58] [Server thread/INFO]: [Peggl3: Triggered [tpa] (set value to 1)]
+[04:20:08] [Server thread/INFO]: avesdaves was shot by Skeleton
+[04:20:16] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 7)]
+[04:20:22] [Server thread/INFO]: [avesdaves: Triggered [tpaccept]]
+[04:20:51] [Server thread/INFO]: <avesdaves> 337 -69
+[04:22:22] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[04:22:25] [Server thread/INFO]: [avesdaves: Triggered [Set Home] (set value to 7)]
+[04:22:36] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
+[04:24:02] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 7)]
+[04:25:01] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
+[04:26:33] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[04:28:36] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[04:28:36] [Server thread/INFO]: Peggl3 left the game
+[04:28:48] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[04:28:48] [Server thread/INFO]: avesdaves left the game
+[04:29:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:46:39] [User Authenticator #44/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[16:46:41] [Server thread/INFO]: Peggl3[/172.20.10.10:43058] logged in with entity id 323044 at (251.2240481253943, 71.0, -61.78761903985595)
+[16:46:41] [Server thread/INFO]: Peggl3 joined the game
+[16:46:48] [Server thread/INFO]: [Peggl3: Stopping the server]
+[16:46:48] [Server thread/INFO]: Stopping server
+[16:46:48] [Server thread/INFO]: Saving players
+[16:46:48] [Server thread/INFO]: Peggl3 lost connection: Server closed
+[16:46:48] [Server thread/INFO]: Peggl3 left the game
+[16:46:48] [Server thread/INFO]: Saving worlds
+[16:46:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:47:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:47:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:47:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:47:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:47:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:47:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
