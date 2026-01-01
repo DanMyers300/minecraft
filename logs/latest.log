@@ -1,10 +1,165 @@
-[00:04:20] [User Authenticator #6/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[00:04:21] [Server thread/INFO]: Peggl3[/172.20.10.10:48016] logged in with entity id 18261 at (255.1245509384293, 71.0, -63.05149259036868)
-[00:04:21] [Server thread/INFO]: Peggl3 joined the game
-[00:06:00] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[00:06:04] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[00:09:19] [Server thread/INFO]: [Peggl3: Triggered [Home]]
-[00:09:28] [Server thread/INFO]: [Peggl3: Triggered [Back]]
-[00:10:26] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[00:10:26] [Server thread/INFO]: Peggl3 left the game
-[00:11:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:11:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[01:11:31] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:entities/shulker@minecraft:loot_table}.pools[2].entries[0]: Missing element more_mob_heads:entities/shulker of type minecraft:loot_table
+[01:11:31] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:entities/bat@minecraft:loot_table}.pools[2].entries[0]: Missing element more_mob_heads:entities/bat of type minecraft:loot_table
+[01:11:31] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:entities/villager@minecraft:loot_table}.pools[2].entries[0]: Missing element more_mob_heads:entities/villager of type minecraft:loot_table
+[01:11:32] [ServerMain/INFO]: Loaded 1761 recipes
+[01:11:32] [ServerMain/INFO]: Loaded 1824 advancements
+[01:11:32] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[01:11:32] [Server thread/INFO]: Loading properties
+[01:11:32] [Server thread/INFO]: Default game type: SURVIVAL
+[01:11:32] [Server thread/INFO]: Generating keypair
+[01:11:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:11:32] [Server thread/INFO]: Preparing level "world"
+[01:11:33] [Server thread/INFO]: Loading 150 persistent chunks...
+[01:11:33] [Server thread/INFO]: Preparing spawn area: 6%
+[01:11:34] [Server thread/INFO]: Preparing spawn area: 6%
+[01:11:34] [Server thread/INFO]: Preparing spawn area: 6%
+[01:11:35] [Server thread/INFO]: Preparing spawn area: 6%
+[01:11:35] [Server thread/INFO]: Preparing spawn area: 6%
+[01:11:36] [Server thread/INFO]: Preparing spawn area: 6%
+[01:11:36] [Server thread/INFO]: Preparing spawn area: 6%
+[01:11:37] [Server thread/INFO]: Preparing spawn area: 68%
+[01:11:37] [Server thread/INFO]: Time elapsed: 3518 ms
+[01:11:37] [Server thread/INFO]: Done (4.243s)! For help, type "help"
+[01:12:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[06:37:30] [User Authenticator #1/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[06:37:32] [Server thread/INFO]: Peggl3[/172.20.10.10:57330] logged in with entity id 120 at (283.2259426701678, 55.0, -6.126833457634869)
+[06:37:32] [Server thread/INFO]: Peggl3 joined the game
+[06:38:34] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[06:38:34] [Server thread/INFO]: Peggl3 left the game
+[06:39:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:36:43] [User Authenticator #2/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[17:36:44] [Server thread/INFO]: Peggl3[/172.20.10.10:48484] logged in with entity id 542 at (251.15991476895599, 71.0, -61.90984351841463)
+[17:36:44] [Server thread/INFO]: Peggl3 joined the game
+[17:39:26] [User Authenticator #3/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[17:39:27] [Server thread/INFO]: avesdaves[/172.20.10.13:50687] logged in with entity id 1134 at (249.30352332259224, 72.0, -60.870597950095274)
+[17:39:27] [Server thread/INFO]: avesdaves joined the game
+[17:41:59] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[17:42:22] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[17:42:35] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[17:42:46] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[17:44:19] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[17:44:59] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[17:45:32] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[17:45:32] [Server thread/INFO]: avesdaves left the game
+[17:45:32] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[17:46:01] [User Authenticator #4/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[17:46:02] [Server thread/INFO]: avesdaves[/172.20.10.13:56670] logged in with entity id 2989 at (213.38080922684182, 67.3089041987187, -65.34420961375191)
+[17:46:02] [Server thread/INFO]: avesdaves joined the game
+[17:46:40] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[17:46:51] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[17:47:34] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[17:47:43] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[17:53:45] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[17:53:55] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[17:53:55] [Server thread/INFO]: avesdaves left the game
+[17:54:08] [User Authenticator #5/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[17:54:08] [Server thread/INFO]: avesdaves[/172.20.10.13:54020] logged in with entity id 7847 at (234.14769313120465, 70.9375, -55.058004775654936)
+[17:54:08] [Server thread/INFO]: avesdaves joined the game
+[17:55:04] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[17:56:53] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[17:57:05] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[17:58:45] [Server thread/INFO]: [Peggl3: Triggered [Homes]]
+[17:58:52] [Server thread/INFO]: [Peggl3: Triggered [Set Home] (set value to 22)]
+[17:59:50] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 4)]
+[18:00:24] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:01:04] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 22)]
+[18:01:19] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:01:29] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:01:38] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:02:17] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:12:15] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:12:58] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:13:43] [Server thread/INFO]: <Peggl3> lag
+[18:13:45] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:13:49] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:13:50] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:13:50] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:13:50] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:13:51] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:13:51] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:13:51] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:17:45] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:18:07] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:20:40] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:20:59] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:21:28] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:21:36] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:21:59] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 8)]
+[18:22:02] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 9)]
+[18:22:05] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 7)]
+[18:22:10] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[18:22:14] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:22:26] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:22:34] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 11)]
+[18:22:39] [Server thread/INFO]: [avesdaves: Triggered [tpa] (set value to 2)]
+[18:22:41] [Server thread/INFO]: [Peggl3: Triggered [tpaccept]]
+[18:22:50] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:23:03] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:23:03] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:23:03] [Server thread/ERROR]: Block-attached entity at invalid position: null
+[18:24:13] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:24:17] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 22)]
+[18:24:38] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:24:44] [Server thread/INFO]: [avesdaves: Triggered [Set Home] (set value to 8)]
+[18:24:49] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[18:24:51] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 5)]
+[18:24:54] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 6)]
+[18:25:57] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:26:32] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:26:37] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 22)]
+[18:27:44] [Server thread/INFO]: avesdaves has made the advancement [Enchanter]
+[18:27:50] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:28:01] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:28:06] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:28:08] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:28:10] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:28:12] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:28:48] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[18:28:52] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 11)]
+[18:29:06] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:30:04] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:30:10] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:31:26] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:31:45] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:33:20] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:33:25] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:33:36] [Server thread/INFO]: [avesdaves: Triggered [Home] (set value to 3)]
+[18:34:03] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[18:34:08] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:34:16] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:34:27] [Server thread/INFO]: [avesdaves: Triggered [Set Home] (set value to 8)]
+[18:34:55] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[18:36:52] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[18:37:38] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:37:55] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:38:16] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:38:28] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:38:51] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 11)]
+[18:39:11] [Server thread/INFO]: [Peggl3: Triggered [Home] (set value to 22)]
+[18:41:34] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:42:28] [Server thread/INFO]: [avesdaves: Triggered [Back]]
+[18:42:33] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:42:37] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:42:39] [Server thread/INFO]: avesdaves lost connection: Disconnected
+[18:42:39] [Server thread/INFO]: avesdaves left the game
+[18:44:23] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:44:29] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:44:33] [Server thread/INFO]: [Peggl3: Triggered [Home]]
+[18:44:36] [User Authenticator #6/INFO]: UUID of player avesdaves is 734c983b-d6e5-4564-b72a-3fbaaca0ebff
+[18:44:37] [Server thread/INFO]: avesdaves[/172.20.10.13:54660] logged in with entity id 22380 at (252.70703289412202, 71.0, -62.214550855740356)
+[18:44:37] [Server thread/INFO]: avesdaves joined the game
+[18:44:38] [Server thread/INFO]: [Peggl3: Triggered [Back]]
+[18:46:18] [Server thread/INFO]: [Peggl3: Stopping the server]
+[18:46:18] [Server thread/INFO]: Stopping server
+[18:46:18] [Server thread/INFO]: Saving players
+[18:46:18] [Server thread/INFO]: Peggl3 lost connection: Server closed
+[18:46:18] [Server thread/INFO]: Peggl3 left the game
+[18:46:18] [Server thread/INFO]: Saving worlds
+[18:46:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:46:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:46:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:46:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:46:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:46:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:46:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
