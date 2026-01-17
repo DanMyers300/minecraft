@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:elytra": 1,
+      "minecraft:cooked_chicken": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 21858,
+      "minecraft:walk_one_cm": 70975,
+      "minecraft:leave_game": 3,
+      "minecraft:damage_taken": 44,
+      "minecraft:interact_with_lectern": 1,
+      "minecraft:play_time": 21858,
+      "minecraft:jump": 45,
+      "minecraft:time_since_death": 21858,
+      "minecraft:interact_with_cartography_table": 1,
+      "minecraft:sprint_one_cm": 7464,
+      "minecraft:open_chest": 4,
+      "minecraft:fall_one_cm": 944,
+      "minecraft:total_world_time": 21858,
+      "minecraft:fly_one_cm": 9188,
+      "minecraft:walk_on_water_one_cm": 1039,
+      "minecraft:crouch_one_cm": 56,
+      "minecraft:sneak_time": 11
+    },
+    "minecraft:picked_up": {
+      "minecraft:diamond_spear": 1,
+      "minecraft:elytra": 1
+    }
+  },
+  "DataVersion": 4671
+}
