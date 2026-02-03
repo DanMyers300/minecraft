@@ -10445,5 +10445,17 @@
     },
     "done": true
   },
+  "painting_picker:recipes/paintings": {
+    "criteria": {
+      "has_item": "2026-01-17 18:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2026-01-19 23:43:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }

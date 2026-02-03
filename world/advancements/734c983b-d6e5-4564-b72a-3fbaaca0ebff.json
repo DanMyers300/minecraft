@@ -10203,16 +10203,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-12-29 19:22:04 +0000",
-      "apple": "2025-12-29 20:16:34 +0000",
       "bread": "2025-12-30 01:39:23 +0000",
       "golden_apple": "2025-12-30 17:02:25 +0000",
-      "cooked_chicken": "2025-12-29 23:25:49 +0000",
-      "enchanted_golden_apple": "2026-01-06 02:56:44 +0000",
       "cooked_mutton": "2025-12-30 00:57:53 +0000",
       "cooked_beef": "2025-12-30 23:12:18 +0000",
       "baked_potato": "2025-12-30 16:25:41 +0000",
-      "cooked_salmon": "2025-12-29 19:40:02 +0000",
       "golden_carrot": "2025-12-30 23:58:27 +0000",
+      "apple": "2025-12-29 20:16:34 +0000",
+      "cooked_chicken": "2025-12-29 23:25:49 +0000",
+      "enchanted_golden_apple": "2026-01-06 02:56:44 +0000",
+      "cooked_cod": "2026-01-17 23:45:42 +0000",
+      "cooked_salmon": "2025-12-29 19:40:02 +0000",
       "carrot": "2025-12-29 23:09:00 +0000"
     },
     "done": false
@@ -10479,6 +10480,18 @@
     "criteria": {
       "has_sherd": "2026-01-09 21:56:24 +0000",
       "desert_pyramid": "2026-01-09 21:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:jellie": "2026-01-17 23:36:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2026-01-19 23:50:22 +0000"
     },
     "done": true
   },
