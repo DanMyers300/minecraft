@@ -1,64 +1,18 @@
-[02:44:12] [User Authenticator #31/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[02:44:13] [Server thread/INFO]: Peggl3[/192.168.1.1:44742] logged in with entity id 407937 at (244.95792380310823, 71.0, -59.385117541274845)
-[02:44:13] [Server thread/INFO]: Peggl3 joined the game
-[02:44:18] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[02:44:18] [Server thread/INFO]: Peggl3 left the game
-[02:45:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:45:40] [User Authenticator #32/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[02:45:41] [Server thread/INFO]: Peggl3[/192.168.1.1:32982] logged in with entity id 408452 at (244.95792380310823, 71.0, -59.385117541274845)
-[02:45:41] [Server thread/INFO]: Peggl3 joined the game
-[02:45:53] [Server thread/INFO]: Peggl3 lost connection: Disconnected
-[02:45:53] [Server thread/INFO]: Peggl3 left the game
-[02:46:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[12:23:25] [Netty Epoll IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at aan.a(SourceFile:50)
-	at aan.encode(SourceFile:14)
-	at xj.a(SourceFile:26)
-	at xj.encode(SourceFile:12)
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:752)
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113)
-	at wu$2.write(SourceFile:488)
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:827)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:804)
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:869)
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1046)
-	at io.netty.channel.Channel.writeAndFlush(Channel.java:257)
-	at wu.c(SourceFile:324)
-	at wu.b(SourceFile:316)
-	at wu.a(SourceFile:298)
-	at wu.a(SourceFile:292)
-	at wu.exceptionCaught(SourceFile:143)
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:289)
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:271)
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1396)
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:890)
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:725)
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:820)
-	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.handle(AbstractEpollChannel.java:482)
-	at io.netty.channel.epoll.EpollIoHandler$DefaultEpollIoRegistration.handle(EpollIoHandler.java:317)
-	at io.netty.channel.epoll.EpollIoHandler.processReady(EpollIoHandler.java:515)
-	at io.netty.channel.epoll.EpollIoHandler.run(EpollIoHandler.java:460)
-	at io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)
-	at io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)
-	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1193)
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-[22:42:05] [User Authenticator #33/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
-[22:42:06] [Server thread/INFO]: Peggl3[/192.168.1.1:54290] logged in with entity id 409371 at (244.95792380310823, 71.0, -59.385117541274845)
-[22:42:06] [Server thread/INFO]: Peggl3 joined the game
-[22:42:10] [Server thread/INFO]: [Peggl3: Stopping the server]
-[22:42:10] [Server thread/INFO]: Stopping server
-[22:42:10] [Server thread/INFO]: Saving players
-[22:42:10] [Server thread/INFO]: Peggl3 lost connection: Server closed
-[22:42:10] [Server thread/INFO]: Peggl3 left the game
-[22:42:10] [Server thread/INFO]: Saving worlds
-[22:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:42:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:42:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:42:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:42:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:42:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:42:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:00:34] [User Authenticator #3/INFO]: Disconnecting Peggl3 (/172.18.0.1:44982): Authentication servers are down. Please try again later. Sorry!
+[01:00:34] [User Authenticator #3/ERROR]: Couldn't verify username because servers are unavailable
+[01:00:34] [Server thread/INFO]: Peggl3 (/172.18.0.1:44982) lost connection: Authentication servers are down. Please try again later. Sorry!
+[01:01:03] [User Authenticator #4/INFO]: Disconnecting Peggl3 (/172.18.0.1:49976): Authentication servers are down. Please try again later. Sorry!
+[01:01:03] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[01:01:03] [Server thread/INFO]: Peggl3 (/172.18.0.1:49976) lost connection: Authentication servers are down. Please try again later. Sorry!
+[01:01:59] [User Authenticator #5/INFO]: Disconnecting Peggl3 (/172.18.0.1:40800): Authentication servers are down. Please try again later. Sorry!
+[01:01:59] [User Authenticator #5/ERROR]: Couldn't verify username because servers are unavailable
+[01:01:59] [Server thread/INFO]: Peggl3 (/172.18.0.1:40800) lost connection: Authentication servers are down. Please try again later. Sorry!
+[01:02:22] [User Authenticator #6/INFO]: Disconnecting Peggl3 (/172.18.0.1:34860): Authentication servers are down. Please try again later. Sorry!
+[01:02:22] [User Authenticator #6/ERROR]: Couldn't verify username because servers are unavailable
+[01:02:22] [Server thread/INFO]: Peggl3 (/172.18.0.1:34860) lost connection: Authentication servers are down. Please try again later. Sorry!
+[01:02:54] [User Authenticator #7/INFO]: UUID of player Peggl3 is 8dcdea05-b427-4965-9d23-5b07bf2efd3f
+[01:02:54] [Server thread/INFO]: Peggl3[/172.18.0.1:39470] logged in with entity id 1036 at (245.27428140388778, 71.0, -53.05051978495667)
+[01:02:54] [Server thread/INFO]: Peggl3 joined the game
+[01:03:01] [Server thread/INFO]: Peggl3 lost connection: Disconnected
+[01:03:01] [Server thread/INFO]: Peggl3 left the game
+[01:04:01] [Server thread/INFO]: Server empty for 60 seconds, pausing
