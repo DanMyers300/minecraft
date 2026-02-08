@@ -10,4 +10,5 @@ services:
     ports:
       - "25565:25565"
     command: ["java", "-Xmx9G", "-jar", "server.jar"]
+    restart: unless-stopped
 
